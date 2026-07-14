@@ -1,0 +1,30 @@
+{
+    "info": "Furina is a playable 5-star Hydro Sword character in Genshin Impact. She is the former Hydro Archon of Fontaine and is known for her dual Arkhe alignment, off-field summon damage, strong team-wide buffs, and HP-draining mechanics that enable many team synergies.",
+      
+    "recommended": {
+        "hp": "35000 - 45000",
+        "atk": "Low priority",
+        "def": "Low priority",
+        "critdmg": "160 - 220%",
+        "critrt": "50 - 70%",
+        "er": "180 - 220%",
+        "em": "Low priority",
+        "artifact": ["Golden Troupe", "Marechaussee Hunter"]
+    },
+
+    "premium": {
+        "weapon": ["Splendor of Tranquil Waters", "Key of Khaj-Nisut", "Primordial Jade Cutter"],
+        "team": [
+        ["Neuvillette", "Furina", "Kazuha", "Xilonen"],
+        ["Mavuika", "Furina", "Bennett", "Xilonen"],
+        ["Skirk", "Furina", "Escoffier", "Shenhe"]]
+    },
+
+    "f2p": {
+      "weapon": ["Festering Desire", "Fleuve Cendre Ferryman", "Favonius Sword"],
+      "team": [
+        ["Furina", "Xiangling", "Bennett", "Sucrose"],
+        ["Furina", "Gaming", "Charlotte", "Bennett"],
+        ["Furina", "Noelle", "Gorou", "Fischl"]]
+    }
+}

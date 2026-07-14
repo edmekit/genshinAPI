@@ -1,0 +1,29 @@
+{
+    "info": "Sandrone is a playable 5-star Cryo Catalyst character in Genshin Impact. Build sources currently describe her as a Cryo on-field DPS whose damage centers on Normal Attacks, Stellar-Conduct, and strong artifact-driven scaling.",
+    "recommended": {
+      "hp": "Low priority",
+      "atk": "2000 or above",
+      "def": "Low priority",
+      "critdmg": "200% or above",
+      "critrt": "60 - 75%",
+      "em": "Low priority",
+      "er": "120 - 140%",
+      "artifact": ["Disenchantment in Deep Shadow", "Gilded Dreams"]
+    },
+    "premium": {
+      "weapon": ["A Teaspoon of Transcendence", "A Thousand Blazing Suns", "Redhorn Stonethresher"],
+      "team": [
+        ["Sandrone", "Yae Miko", "Escoffier", "Nicole"],
+        ["Sandrone", "Qiqi", "Beidou", "Sucrose"],
+        ["Sandrone", "Xilonen", "Furina", "Bennett"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Mailed Flower", "Ultimate Overlord's Mega Magic Sword", "Serpent Spine"],
+      "team": [
+        ["Sandrone", "Fischl", "Bennett", "Sucrose"],
+        ["Sandrone", "Qiqi", "Diona", "Fischl"],
+        ["Sandrone", "Beidou", "Barbara", "Anemo Traveler"]
+      ]
+    }
+  }

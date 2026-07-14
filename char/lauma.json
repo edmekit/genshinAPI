@@ -1,0 +1,29 @@
+{
+    "info": "Lauma is a playable Cryo character in Genshin Impact. She is the Moonchanter of the Frostmoon Scions, also known as the Maiden of the Grove, and is known for her kind nature and affinity with moonlight and wildlife.",
+    "recommended": {
+      "hp": "18000 - 25000",
+      "atk": "Low priority",
+      "def": "Low priority",
+      "critdmg": "160% or above",
+      "critrt": "50 - 70%",
+      "em": "100 - 200",
+      "er": "160 - 200%",
+      "artifact": ["Deepwood Memories", "Noblesse Oblige"]
+    },
+    "premium": {
+      "weapon": ["Nightweaver's Looking Glass", "A Thousand Floating Dreams", "Favonius Codex"],
+      "team": [
+        ["Lauma", "Nefer", "Furina", "Baizhu"],
+        ["Lauma", "Nilou", "Nahida", "Kokomi"],
+        ["Lauma", "Chasca", "Furina", "Kazuha"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Favonius Codex", "Sacrificial Fragments", "Magic Guide"],
+      "team": [
+        ["Lauma", "Dendro Traveler", "Xingqiu", "Barbara"],
+        ["Lauma", "Collei", "Fischl", "Jean"],
+        ["Lauma", "Nahida", "Barbara", "Sucrose"]
+      ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "info": "Nefer is a playable Dendro character in Genshin Impact. She is the resourceful head of the Curatorium of Secrets and is associated with the Voynich Guild.",
+    "recommended": {
+      "hp": "Low priority",
+      "atk": "1800 or above",
+      "def": "Low priority",
+      "critdmg": "180% or above",
+      "critrt": "60 - 75%",
+      "em": "200 - 400",
+      "er": "140 - 180%",
+      "artifact": ["Deepwood Memories", "Gilded Dreams"]
+    },
+    "premium": {
+      "weapon": ["Nightweaver's Looking Glass", "A Thousand Floating Dreams", "Jadefall's Splendor"],
+      "team": [
+        ["Nefer", "Furina", "Baizhu", "Nahida"],
+        ["Nefer", "Nilou", "Kokomi", "Nahida"],
+        ["Nefer", "Xilonen", "Furina", "Baizhu"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Sacrificial Fragments", "Wandering Evenstar", "Magic Guide"],
+      "team": [
+        ["Nefer", "Xingqiu", "Dendro Traveler", "Barbara"],
+        ["Nefer", "Collei", "Fischl", "Jean"],
+        ["Nefer", "Nahida", "Xingqiu", "Kuki Shinobu"]
+      ]
+    }
+  }

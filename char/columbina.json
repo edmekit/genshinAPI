@@ -1,0 +1,29 @@
+{
+  "info": "Columbina is a playable 5-star Hydro Catalyst character in Genshin Impact. She is also known as the Damselette and the Moon Goddess of Nod-Krai, and current build guides place her as a Lunar reaction enabler and Hydro support/sub-DPS.",
+  "recommended": {
+    "hp": "35000 - 45000",
+    "atk": "Low priority",
+    "def": "Low priority",
+    "critdmg": "180% or above",
+    "critrt": "60 - 75%",
+    "em": "100 - 200",
+    "er": "160 - 220%",
+    "artifact": ["Silken Moon's Serenade", "Aubade of Morningstar and Moon"]
+  },
+  "premium": {
+    "weapon": ["Nocturne of the Hidden Veil", "A Thousand Floating Dreams", "Jadefall's Splendor"],
+    "team": [
+      ["Columbina", "Flins", "Ineffa", "Lauma"],
+      ["Columbina", "Nefer", "Lauma", "Baizhu"],
+      ["Columbina", "Zibai", "Illuga", "Linnea"]
+    ]
+  },
+  "f2p": {
+    "weapon": ["Favonius Codex", "Prototype Amber", "Sacrificial Fragments"],
+    "team": [
+      ["Columbina", "Fischl", "Xingqiu", "Sucrose"],
+      ["Columbina", "Barbara", "Dendro Traveler", "Collei"],
+      ["Columbina", "Noelle", "Gorou", "Illuga"]
+    ]
+  }
+}

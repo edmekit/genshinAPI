@@ -1,0 +1,29 @@
+{
+    "info" : "Chasca is a playable 5-star Anemo Bow DPS in Genshin Impact. She hails from the Flower-Feather Clan in Natlan and is widely known as a skilled and composed peacemaker who resolves tribal disputes.",
+
+    "recommended" : {
+        "hp" : "Low priority",
+        "atk" : "2000 - 3000",
+        "def" : "Low priority",
+        "critdmg" : "200% - 250%",
+        "critrt" : "40 - 50%",
+        "em" : "120",
+        "artifact" : ["Obsidian Codex", "Viridescent Venerer"]
+    },
+
+    "premium" : {
+        "weapon" : ["Astral Vulture's Crimson Plumage", "Aqua Simulacra", "The First Great Magic"],   
+        "team" : [
+        ["Chasca" , "Bennett", "Citali", "Furina"], 
+        ["Chasca", "Durin", "Fischl", "Citali"], 
+        ["Chasca", "Mavuika", "Bennett", "Citali"]] 
+    },
+
+    "f2p" : {
+        "weapon" : "Chain Breaker",
+        "team" : [
+            ["Chasca", "Fischl", "Xiangling", "Bennett"], 
+            ["Chasca", "Ororon", "Xingqui", "Bennett"], 
+            ["Chasca", "Bennett", "Diona", "Barbara"]]
+    }
+}

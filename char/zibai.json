@@ -1,0 +1,30 @@
+{
+    "info": "Zibai is a playable 5-star Geo Sword DPS in Genshin Impact. She is known as an on-field Lunar-Crystallize damage dealer who enters a special Skill state, converts her attacks to Geo DMG, and scales heavily with DEF.",
+
+    "recommended": {
+        "hp": "12000 - 15000",
+        "atk": "Low priority",
+        "def": "2500 - 3200",
+        "critdmg": "200% - 250%",
+        "critrt": "50 - 60%",
+        "em": "100 - 200",
+        "er": "110 - 130%",
+        "artifact": ["Night of the Sky's Unveiling", "Husk of Opulent Dreams"]
+    },
+
+    "premium": {
+        "weapon": ["Lightbearing Moonshard", "Uraku Misugiri", "Primordial Jade Cutter"],
+        "team": [
+        ["Zibai", "Columbina", "Illuga", "Linnea"],
+        ["Zibai", "Columbina", "Illuga", "Gorou"],
+        ["Zibai", "Furina", "Columbina", "Linnea"]]
+    },
+
+    "f2p": {
+        "weapon": ["Flute of Ezpitzal", "Harbinger of Dawn", "Wolf-Fang"],
+        "team": [
+        ["Zibai", "Aino", "Gorou", "Xingqiu"],
+        ["Zibai", "Geo Traveler", "Xingqiu", "Aino"],
+        ["Zibai", "Jahoda", "Geo Traveler", "Aino"]]
+    }
+}

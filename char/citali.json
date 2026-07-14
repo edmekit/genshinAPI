@@ -1,0 +1,29 @@
+{
+    "info": "Citlali is a playable Cryo Catalyst character in Genshin Impact. She is the legendary shaman of the Masters of the Night-Wind, known as Granny Itztli, and is strongly associated with Cryo support and shielding.",
+    "recommended": {
+      "hp": "30000 or above",
+      "atk": "Low priority",
+      "def": "Low priority",
+      "critdmg": "120 - 160%",
+      "critrt": "50 - 70%",
+      "em": "150 - 300",
+      "er": "180 - 220%",
+      "artifact": ["Scroll of the Hero of Cinder City", "Noblesse Oblige", "Tenacity of the Millelith"]
+    },
+    "premium": {
+      "weapon": ["Starcaller's Watch", "A Thousand Floating Dreams", "Favonius Codex"],
+      "team": [
+        ["Citlali", "Mavuika", "Bennett", "Xilonen"],
+        ["Citlali", "Arlecchino", "Furina", "Kazuha"],
+        ["Citlali", "Neuvillette", "Furina", "Kazuha"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Favonius Codex", "Thrilling Tales of Dragon Slayers", "Sacrificial Fragments"],
+      "team": [
+        ["Citlali", "Mavuika", "Bennett", "Kachina"],
+        ["Citlali", "Xiangling", "Bennett", "Sucrose"],
+        ["Citlali", "Kaeya", "Barbara", "Anemo Traveler"]
+      ]
+    }
+  }

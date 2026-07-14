@@ -1,0 +1,29 @@
+{
+    "info": "Flins is a playable 5-star Electro Polearm character in Genshin Impact. Guide sources describe him as an Electro DPS built around Lunar-Charged reactions, with Night of the Sky's Unveiling commonly cited as his best artifact set.",
+    "recommended": {
+      "hp": "Low priority",
+      "atk": "1800 or above",
+      "def": "Low priority",
+      "critdmg": "180% or above",
+      "critrt": "60 - 75%",
+      "em": "100 - 200",
+      "er": "130 - 160%",
+      "artifact": ["Silken Moon's Serenade", "Aubade of Morningstar and Moon"]
+    },
+    "premium": {
+      "weapon": ["Bloodsoaked Ruins", "Staff of the Scarlet Sands", "Primordial Jade Winged-Spear"],
+      "team": [
+        ["Flins", "Columbina", "Ineffa", "Kazuha"],
+        ["Flins", "Furina", "Baizhu", "Columbina"],
+        ["Flins", "Yae Miko", "Bennett", "Kazuha"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["The Catch", "Kitain Cross Spear", "Favonius Lance"],
+      "team": [
+        ["Flins", "Xingqiu", "Fischl", "Sucrose"],
+        ["Flins", "Beidou", "Barbara", "Dendro Traveler"],
+        ["Flins", "Kuki Shinobu", "Collei", "Sucrose"]
+      ]
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "info": "Mavuika is a playable 5-star Pyro character in Genshin Impact. She is the Pyro Archon of Natlan and functions as a high-impact on-field or off-field Pyro DPS with strong team utility.",
+    "recommended": {
+      "hp": "Low priority",
+      "atk": "2000 or above",
+      "def": "Low priority",
+      "critdmg": "180% or above",
+      "critrt": "60 - 75%",
+      "em": "100 - 250",
+      "er": "Low priority",
+      "artifact": ["Obsidian Codex", "Marechaussee Hunter", "Scroll of the Hero of Cinder City"]
+    },
+    "premium": {
+      "weapon": ["A Thousand Blazing Suns", "Beacon of the Reed Sea", "Verdict"],
+      "team": [
+        ["Mavuika", "Furina", "Bennett", "Xilonen"],
+        ["Mavuika", "Citlali", "Bennett", "Xilonen"],
+        ["Mavuika", "Kazuha", "Bennett", "Furina"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Tidal Shadow", "Serpent Spine", "Ultimate Overlord's Mega Magic Sword"],
+      "team": [
+        ["Mavuika", "Xingqiu", "Bennett", "Kachina"],
+        ["Mavuika", "Xiangling", "Sucrose", "Barbara"],
+        ["Mavuika", "Rosaria", "Bennett", "Layla"]
+      ]
+    }
+  }

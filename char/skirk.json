@@ -1,0 +1,29 @@
+{
+"info": "Skirk is a playable Cryo Sword character in Genshin Impact. She is Tartaglia's master, a mysterious swordswoman from the sea of stars, and the disciple of Surtalogi of the Five Sinners of Khaenri'ah.",
+    "recommended": {
+      "hp": "Low priority",
+      "atk": "2000 or above",
+      "def": "Low priority",
+      "critdmg": "180% or above",
+      "critrt": "60 - 75%",
+      "em": "Low priority",
+      "er": "120 - 140%",
+      "artifact": ["Blizzard Strayer", "Marechaussee Hunter"]
+    },
+    "premium": {
+      "weapon": ["Azurelight", "Mistsplitter Reforged", "Primordial Jade Cutter"],
+      "team": [
+        ["Skirk", "Furina", "Kazuha", "Shenhe"],
+        ["Skirk", "Mona", "Kazuha", "Diona"],
+        ["Skirk", "Citlali", "Furina", "Kazuha"]
+      ]
+    },
+    "f2p": {
+      "weapon": ["Amenoma Kageuchi", "The Black Sword", "Harbinger of Dawn"],
+      "team": [
+        ["Skirk", "Xingqiu", "Sucrose", "Diona"],
+        ["Skirk", "Rosaria", "Barbara", "Anemo Traveler"],
+        ["Skirk", "Kaeya", "Layla", "Sucrose"]
+      ]
+    }
+}
