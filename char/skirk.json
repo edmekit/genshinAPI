@@ -24,5 +24,10 @@
             "name" : "Finale of the Deep",
             "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/finale_sword.png"
         }
+    },
+
+    "team" : {
+        "premium" : ["Lauma", "Nefer", "Columbina", "Nahida"],
+        "f2p" : ["Nefer", "Aino", "Sucrose", "Yaoyao"]
     }
 }
