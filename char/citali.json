@@ -7,23 +7,28 @@
       "critdmg": "120 - 160%",
       "critrt": "50 - 70%",
       "em": "150 - 300",
-      "er": "180 - 220%",
-      "artifact": ["Scroll of the Hero of Cinder City", "Noblesse Oblige", "Tenacity of the Millelith"]
+      "er": "180 - 220%"
     },
-    "premium": {
-      "weapon": ["Starcaller's Watch", "A Thousand Floating Dreams", "Favonius Codex"],
-      "team": [
-        ["Citlali", "Mavuika", "Bennett", "Xilonen"],
-        ["Citlali", "Arlecchino", "Furina", "Kazuha"],
-        ["Citlali", "Neuvillette", "Furina", "Kazuha"]
-      ]
+
+    "artifact": {
+        "name" : "Scroll of the Hero of Cinder City",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/cinder_city.png"
     },
-    "f2p": {
-      "weapon": ["Favonius Codex", "Thrilling Tales of Dragon Slayers", "Sacrificial Fragments"],
-      "team": [
-        ["Citlali", "Mavuika", "Bennett", "Kachina"],
-        ["Citlali", "Xiangling", "Bennett", "Sucrose"],
-        ["Citlali", "Kaeya", "Barbara", "Anemo Traveler"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Starcaller's Watch",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/starcaller.png"
+    },
+        "f2p" : {
+            "name" : "Thrilling Tales of Dragon Slayers",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/ttds.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Citlali", "Mavuika", "Bennett", "Xilonen"],
+        "f2p" : ["Citlali", "Mavuika", "Bennett", "Kachina"]
     }
-  }
+   
+}

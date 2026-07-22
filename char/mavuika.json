@@ -7,23 +7,27 @@
       "critdmg": "180% or above",
       "critrt": "60 - 75%",
       "em": "100 - 250",
-      "er": "Low priority",
-      "artifact": ["Obsidian Codex", "Marechaussee Hunter", "Scroll of the Hero of Cinder City"]
+      "er": "Low priority"
     },
-    "premium": {
-      "weapon": ["A Thousand Blazing Suns", "Beacon of the Reed Sea", "Verdict"],
-      "team": [
-        ["Mavuika", "Furina", "Bennett", "Xilonen"],
-        ["Mavuika", "Citlali", "Bennett", "Xilonen"],
-        ["Mavuika", "Kazuha", "Bennett", "Furina"]
-      ]
+
+  "artifact": {
+        "name" : "Obsidian Codex",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/obsidian.png"
     },
-    "f2p": {
-      "weapon": ["Tidal Shadow", "Serpent Spine", "Ultimate Overlord's Mega Magic Sword"],
-      "team": [
-        ["Mavuika", "Xingqiu", "Bennett", "Kachina"],
-        ["Mavuika", "Xiangling", "Sucrose", "Barbara"],
-        ["Mavuika", "Rosaria", "Bennett", "Layla"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "A Thousand Blazing Suns",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/blazing_sun.png"
+    },
+        "f2p" : {
+            "name" : "Tidal Shadow",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/tidal_shadow.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Mavuika", "Citlali", "Bennett", "Xilonen"],
+        "f2p" : ["Mavuika", "Xingqiu", "Bennett", "Kachina"]
     }
   }

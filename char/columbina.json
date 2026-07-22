@@ -7,23 +7,27 @@
     "critdmg": "180% or above",
     "critrt": "60 - 75%",
     "em": "100 - 200",
-    "er": "160 - 220%",
-    "artifact": ["Silken Moon's Serenade", "Aubade of Morningstar and Moon"]
+    "er": "160 - 220%"
   },
-  "premium": {
-    "weapon": ["Nocturne of the Hidden Veil", "A Thousand Floating Dreams", "Jadefall's Splendor"],
-    "team": [
-      ["Columbina", "Flins", "Ineffa", "Lauma"],
-      ["Columbina", "Nefer", "Lauma", "Baizhu"],
-      ["Columbina", "Zibai", "Illuga", "Linnea"]
-    ]
-  },
-  "f2p": {
-    "weapon": ["Favonius Codex", "Prototype Amber", "Sacrificial Fragments"],
-    "team": [
-      ["Columbina", "Fischl", "Xingqiu", "Sucrose"],
-      ["Columbina", "Barbara", "Dendro Traveler", "Collei"],
-      ["Columbina", "Noelle", "Gorou", "Illuga"]
-    ]
-  }
+
+   "artifact": {
+        "name" : "4pc Aubade of Morningstar and Moon",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/aubade.png"
+    },
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Nocturne of the Hidden Veil",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/nocturne.png"
+    },
+        "f2p" : {
+            "name" : "Favonius Codex",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/favonius_codex.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Columbina", "Zibai", "Illuga", "Linnea"],
+        "f2p" : ["Columbina", "Fischl", "Xingqiu", "Sucrose"]
+    }
 }

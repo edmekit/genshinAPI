@@ -7,23 +7,27 @@
       "critdmg": "160% or above",
       "critrt": "50 - 70%",
       "em": "100 - 200",
-      "er": "160 - 200%",
-      "artifact": ["Deepwood Memories", "Noblesse Oblige"]
+      "er": "160 - 200%"
     },
-    "premium": {
-      "weapon": ["Nightweaver's Looking Glass", "A Thousand Floating Dreams", "Favonius Codex"],
-      "team": [
-        ["Lauma", "Nefer", "Furina", "Baizhu"],
-        ["Lauma", "Nilou", "Nahida", "Kokomi"],
-        ["Lauma", "Chasca", "Furina", "Kazuha"]
-      ]
+
+    "artifact": {
+        "name" : "Deepwood Memories",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/deepwood.png"
     },
-    "f2p": {
-      "weapon": ["Favonius Codex", "Sacrificial Fragments", "Magic Guide"],
-      "team": [
-        ["Lauma", "Dendro Traveler", "Xingqiu", "Barbara"],
-        ["Lauma", "Collei", "Fischl", "Jean"],
-        ["Lauma", "Nahida", "Barbara", "Sucrose"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Nightweaver's Looking Glass",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/nightweaver.png"
+    },
+        "f2p" : {
+            "name" : "Favonius Codex",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/favonius_codex.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Lauma", "Nefer", "Columbina", "Nahida"],
+        "f2p" : ["Lauma", "Collei", "Fischl", "Aino"]
     }
 }

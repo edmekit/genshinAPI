@@ -7,23 +7,27 @@
       "critdmg": "180% or above",
       "critrt": "60 - 75%",
       "em": "100 - 200",
-      "er": "130 - 160%",
-      "artifact": ["Silken Moon's Serenade", "Aubade of Morningstar and Moon"]
+      "er": "130 - 160%"
     },
-    "premium": {
-      "weapon": ["Bloodsoaked Ruins", "Staff of the Scarlet Sands", "Primordial Jade Winged-Spear"],
-      "team": [
-        ["Flins", "Columbina", "Ineffa", "Kazuha"],
-        ["Flins", "Furina", "Baizhu", "Columbina"],
-        ["Flins", "Yae Miko", "Bennett", "Kazuha"]
-      ]
+ 
+    "artifact": {
+        "name" : "Night of the Sky's Unveiling",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/night_unveiling.png"
     },
-    "f2p": {
-      "weapon": ["The Catch", "Kitain Cross Spear", "Favonius Lance"],
-      "team": [
-        ["Flins", "Xingqiu", "Fischl", "Sucrose"],
-        ["Flins", "Beidou", "Barbara", "Dendro Traveler"],
-        ["Flins", "Kuki Shinobu", "Collei", "Sucrose"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Bloodsoaked Ruins",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/bloodsoaked.png"
+    },
+        "f2p" : {
+            "name" : "The Catch",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/the_catch.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Flins", "Columbina", "Ineffa", "Sucrose"],
+        "f2p" : ["Flins", "Aino", "Fischl", "Sucrose"]
     }
   }

@@ -7,23 +7,27 @@
         "def" : "Low priority",
         "critdmg" : "200% - 250%",
         "critrt" : "40 - 50%",
-        "em" : "120",
-        "artifact" : ["Obsidian Codex", "Viridescent Venerer"]
+        "em" : "120"
     },
 
-    "premium" : {
-        "weapon" : ["Astral Vulture's Crimson Plumage", "Aqua Simulacra", "The First Great Magic"],   
-        "team" : [
-        ["Chasca" , "Bennett", "Citali", "Furina"], 
-        ["Chasca", "Durin", "Fischl", "Citali"], 
-        ["Chasca", "Mavuika", "Bennett", "Citali"]] 
+    "artifact": {
+        "name" : "4pc Obsidian Codex",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/obsidian_codex.png"
     },
 
-    "f2p" : {
-        "weapon" : "Chain Breaker",
-        "team" : [
-            ["Chasca", "Fischl", "Xiangling", "Bennett"], 
-            ["Chasca", "Ororon", "Xingqui", "Bennett"], 
-            ["Chasca", "Bennett", "Diona", "Barbara"]]
+    "weapon" : {
+        "bis" : { 
+            "name" : "Astral Vulture's Crimson Plumage",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/astral.png"
+    },
+        "f2p" : {
+            "name" : "Chain Breaker",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/chain_breaker.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Chasca" , "Bennett", "Citali", "Furina"],
+        "f2p" : ["Chasca", "Ororon", "Xingqui", "Bennett"]
     }
 }

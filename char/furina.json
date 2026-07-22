@@ -8,23 +8,27 @@
         "critdmg": "160 - 220%",
         "critrt": "50 - 70%",
         "er": "180 - 220%",
-        "em": "Low priority",
-        "artifact": ["Golden Troupe", "Marechaussee Hunter"]
+        "em": "Low priority"
+    },
+ 
+    "artifact": {
+        "name" : "Golden Troupe",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/golden_troupe.png"
     },
 
-    "premium": {
-        "weapon": ["Splendor of Tranquil Waters", "Key of Khaj-Nisut", "Primordial Jade Cutter"],
-        "team": [
-        ["Neuvillette", "Furina", "Kazuha", "Xilonen"],
-        ["Mavuika", "Furina", "Bennett", "Xilonen"],
-        ["Skirk", "Furina", "Escoffier", "Shenhe"]]
+    "weapon" : {
+        "bis" : { 
+            "name" : "Splendor of Tranquil Waters",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/splendor.png"
+    },
+        "f2p" : {
+            "name" : "Fleuve Cendre Ferryman",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/ferryman.png"
+        }
     },
 
-    "f2p": {
-      "weapon": ["Festering Desire", "Fleuve Cendre Ferryman", "Favonius Sword"],
-      "team": [
-        ["Furina", "Xiangling", "Bennett", "Sucrose"],
-        ["Furina", "Gaming", "Charlotte", "Bennett"],
-        ["Furina", "Noelle", "Gorou", "Fischl"]]
+    "team" : {
+        "premium" : ["Neuvillette", "Furina", "Kazuha", "Xilonen"],
+        "f2p" : ["Furina", "Gaming", "Charlotte", "Bennett"]
     }
 }

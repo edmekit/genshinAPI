@@ -7,23 +7,22 @@
       "critdmg": "180% or above",
       "critrt": "60 - 75%",
       "em": "Low priority",
-      "er": "120 - 140%",
-      "artifact": ["Blizzard Strayer", "Marechaussee Hunter"]
+      "er": "120 - 140%"
     },
-    "premium": {
-      "weapon": ["Azurelight", "Mistsplitter Reforged", "Primordial Jade Cutter"],
-      "team": [
-        ["Skirk", "Furina", "Kazuha", "Shenhe"],
-        ["Skirk", "Mona", "Kazuha", "Diona"],
-        ["Skirk", "Citlali", "Furina", "Kazuha"]
-      ]
+  
+  "artifact": {
+        "name" : "Finale of The Deep Galleries",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/finale_deep.png"
     },
-    "f2p": {
-      "weapon": ["Amenoma Kageuchi", "The Black Sword", "Harbinger of Dawn"],
-      "team": [
-        ["Skirk", "Xingqiu", "Sucrose", "Diona"],
-        ["Skirk", "Rosaria", "Barbara", "Anemo Traveler"],
-        ["Skirk", "Kaeya", "Layla", "Sucrose"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Azurelight",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/azurelight.png"
+    },
+        "f2p" : {
+            "name" : "Finale of the Deep",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/finale_sword.png"
+        }
     }
 }

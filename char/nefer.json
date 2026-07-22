@@ -10,20 +10,25 @@
       "er": "140 - 180%",
       "artifact": ["Deepwood Memories", "Gilded Dreams"]
     },
-    "premium": {
-      "weapon": ["Nightweaver's Looking Glass", "A Thousand Floating Dreams", "Jadefall's Splendor"],
-      "team": [
-        ["Nefer", "Furina", "Baizhu", "Nahida"],
-        ["Nefer", "Nilou", "Kokomi", "Nahida"],
-        ["Nefer", "Xilonen", "Furina", "Baizhu"]
-      ]
+
+  "artifact": {
+        "name" : "Night of the Sky's Unveiling",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/night_unveiling.png"
     },
-    "f2p": {
-      "weapon": ["Sacrificial Fragments", "Wandering Evenstar", "Magic Guide"],
-      "team": [
-        ["Nefer", "Xingqiu", "Dendro Traveler", "Barbara"],
-        ["Nefer", "Collei", "Fischl", "Jean"],
-        ["Nefer", "Nahida", "Xingqiu", "Kuki Shinobu"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Reliquary of Truth",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/reliquary.png"
+    },
+        "f2p" : {
+            "name" : "Dawning Frost",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/dawning_frost.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Lauma", "Nefer", "Columbina", "Nahida"],
+        "f2p" : ["Nefer", "Aino", "Sucrose", "Yaoyao"]
     }
-  }
+}

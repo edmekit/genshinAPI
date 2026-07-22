@@ -7,23 +7,22 @@
       "critdmg": "200% or above",
       "critrt": "60 - 75%",
       "em": "Low priority",
-      "er": "120 - 140%",
-      "artifact": ["Disenchantment in Deep Shadow", "Gilded Dreams"]
+      "er": "120 - 140%"
     },
-    "premium": {
-      "weapon": ["A Teaspoon of Transcendence", "A Thousand Blazing Suns", "Redhorn Stonethresher"],
-      "team": [
-        ["Sandrone", "Yae Miko", "Escoffier", "Nicole"],
-        ["Sandrone", "Qiqi", "Beidou", "Sucrose"],
-        ["Sandrone", "Xilonen", "Furina", "Bennett"]
-      ]
+  
+  "artifact": {
+        "name" : "Disenchantment in Deep Shadow",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/deep_shadow.png"
     },
-    "f2p": {
-      "weapon": ["Mailed Flower", "Ultimate Overlord's Mega Magic Sword", "Serpent Spine"],
-      "team": [
-        ["Sandrone", "Fischl", "Bennett", "Sucrose"],
-        ["Sandrone", "Qiqi", "Diona", "Fischl"],
-        ["Sandrone", "Beidou", "Barbara", "Anemo Traveler"]
-      ]
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "A Teaspoon of Transcendence",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/teaspoon.png"
+    },
+        "f2p" : {
+            "name" : "Tidal Shadow",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/tidal_shadow.png"
+        }
     }
   }
