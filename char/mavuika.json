@@ -27,7 +27,7 @@
     },
 
     "team" : {
-        "premium" : ["Mavuika", "Citlali", "Bennett", "Xilonen"],
+        "premium" : ["Mavuika", "Citali", "Bennett", "Xilonen"],
         "f2p" : ["Mavuika", "Xingqiu", "Bennett", "Kachina"]
     }
   }

@@ -28,6 +28,6 @@
 
     "team" : {
         "premium" : ["Chasca" , "Bennett", "Citali", "Furina"],
-        "f2p" : ["Chasca", "Ororon", "Xingqui", "Bennett"]
+        "f2p" : ["Chasca", "Ororon", "Xingqiu", "Bennett"]
     }
 }
