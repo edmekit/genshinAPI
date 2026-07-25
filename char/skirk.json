@@ -1,5 +1,8 @@
 {
-"info": "Skirk is a playable Cryo Sword character in Genshin Impact. She is Tartaglia's master, a mysterious swordswoman from the sea of stars, and the disciple of Surtalogi of the Five Sinners of Khaenri'ah.",
+"info": {
+    "name" : "Skirk",
+    "role" : "Cryo Sword DPS"
+},
     "recommended": {
       "hp": "Low priority",
       "atk": "2000 or above",
@@ -29,5 +32,7 @@
     "team" : {
         "premium" : ["Skirk", "Escoffier", "Furina", "Shenhe"],
         "f2p" : ["Skirk", "Xingqiu", "Rosaria", "Dahlia"]
-    }
+    },
+
+    "notes" : "Skirk is a Cryo hypercarry whose gameplay revolves around maintaining her enhanced combat state and executing uninterrupted attack strings during her field time. She performs best in Freeze and Cryo-focused teams with supports such as Furina, Escoffier, Shenhe, and Kazuha, who amplify both her personal damage and Cryo application. Activate all support abilities before switching to Skirk, then use her Skill immediately to enter her empowered state before beginning her combo. Because much of her damage comes from remaining in this enhanced stance, unnecessary swaps or interruptions can significantly reduce her output. Prioritize rotations that allow Skirk to stay on the field until her empowered state naturally ends before refreshing support abilities."
 }

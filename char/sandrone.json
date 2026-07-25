@@ -1,5 +1,8 @@
 {
-    "info": "Sandrone is a playable 5-star Cryo Catalyst character in Genshin Impact. Build sources currently describe her as a Cryo on-field DPS whose damage centers on Normal Attacks, Stellar-Conduct, and strong artifact-driven scaling.",
+    "info": {
+        "name" : "Sandrone",
+        "role" : "Pyro Polearm DPS"
+    },
     "recommended": {
       "hp": "Low priority",
       "atk": "2000 or above",
@@ -29,5 +32,7 @@
     "team" : {
         "premium" : ["Sandrone", "Yae", "Qiqi", "Nicole"],
         "f2p" : ["Sandrone", "Beidou", "Qiqi", "Bennett"]
-    }
+    },
+
+    "notes" : "Sandrone is an on-field Cryo DPS whose damage revolves around Fageo's Calculation Mode rather than her own attacks. Stay on the field long enough for Fageo to build Calculation Power and enter Overclock Mode, as ending her field time early can significantly reduce her damage. Her Skill can delay or reset Fageo's Calculation Power, making it useful for syncing Overclock with team buffs or new enemy waves. Since she converts Superconduct into Stellar-Conduct, pairing her with a consistent Electro applicator is essential for maximizing her damage."
   }

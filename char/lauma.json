@@ -29,5 +29,7 @@
     "team" : {
         "premium" : ["Lauma", "Nefer", "Columbina", "Nahida"],
         "f2p" : ["Lauma", "Collei", "Fischl", "Aino"]
-    }
+    },
+
+    "notes" : "Lauma is the premier Lunar-Bloom support, offering Hydro and Dendro RES Shred, powerful Bloom-specific buffs, off-field Dendro application, and significant Lunar-Bloom damage through her Skill and Burst. She is Nefer's strongest teammate by a considerable margin, but also greatly improves other Bloom and Lunar-Bloom teams. Her Frostgrove Sanctuary continuously applies Dendro while shredding enemy Hydro and Dendro RES, making early Skill placement important before your main DPS begins their combo. Unlike most supports, whether Lauma uses her Tap or Hold Skill depends entirely on the team: in Nefer teams without Columbina, use Tap Skill so Verdant Dew remains available for Nefer's special Charged Attacks; with Columbina or other teams that generate sufficient Dew, Hold Skill becomes the preferred option, converting stored Verdant Dew into additional Lunar-Bloom damage and Moon Song stacks for a stronger Burst. Because many of her buffs are tied to her Burst, maintaining enough Energy Recharge to Burst every rotation is one of the highest priorities when building her."
 }

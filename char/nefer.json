@@ -1,5 +1,8 @@
 {
-    "info": "Nefer is a playable Dendro character in Genshin Impact. She is the resourceful head of the Curatorium of Secrets and is associated with the Voynich Guild.",
+    "info": {
+        "name" : "Nefer",
+        "role" : "Dendro Catalyst DPS"
+    },
     "recommended": {
       "hp": "Low priority",
       "atk": "1800 or above",
@@ -30,5 +33,7 @@
     "team" : {
         "premium" : ["Lauma", "Nefer", "Columbina", "Nahida"],
         "f2p" : ["Nefer", "Aino", "Sucrose", "Yaoyao"]
-    }
+    },
+
+    "notes" : "Nefer is a Lunar-Bloom hypercarry whose damage comes primarily from her special Charged Attacks during Shadow Dance, making proper Verdant Dew management the most important aspect of her gameplay. She is almost always paired with Lauma, whose extensive Lunar-Bloom buffs, Dendro RES Shred, and CRIT buffs dramatically increase Nefer's damage, while a Hydro teammate such as Columbina is required to enable Lunar-Bloom and generate Verdant Dew. Begin the rotation by establishing Hydro and support buffs before swapping to Nefer, allowing her to immediately perform her enhanced Charged Attacks without waiting for Dew generation. In teams without Columbina, avoid consuming Verdant Dew with Lauma's Hold Skill, as doing so can leave Nefer without enough resources to complete her full combo. Whenever possible, include a second Nod-Krai character to activate Moonsign: Ascendant Gleam, unlocking additional Lunar-Bloom bonuses and Nefer's Ascension Passive."
 }

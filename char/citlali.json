@@ -1,0 +1,40 @@
+{
+    "info": {
+        "name" : "Citlali",
+        "role" : "Cryo Catalyst Support/Shielder"
+    },
+
+    "recommended": {
+      "hp": "30000 or above",
+      "atk": "Low priority",
+      "def": "Low priority",
+      "critdmg": "120 - 160%",
+      "critrt": "50 - 70%",
+      "em": "150 - 300",
+      "er": "180 - 220%"
+    },
+
+    "artifact": {
+        "name" : "Scroll of the Hero of Cinder City",
+        "icon" :"https://edmekit.github.io/gachahell-assets/artifacts/cinder_city.png"
+    },
+
+    "weapon" : {
+        "bis" : { 
+            "name" : "Starcaller's Watch",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/starcaller.png"
+    },
+        "f2p" : {
+            "name" : "Thrilling Tales of Dragon Slayers",
+            "icon" :  "https://edmekit.github.io/gachahell-assets/weapons/ttds.png"
+        }
+    },
+
+    "team" : {
+        "premium" : ["Citlali", "Mavuika", "Bennett", "Xilonen"],
+        "f2p" : ["Citlali", "Mavuika", "Bennett", "Kachina"]
+    },
+
+    "notes" : "Citlali is a dedicated Cryo support whose value comes from enabling Melt teams through reliable off-field Cryo application, shielding, and her ability to reduce Pyro and Hydro RES after triggering Melt or Freeze. She pairs exceptionally well with Mavuika, Arlecchino, Chasca, Hu Tao, and other Pyro carries capable of consistently triggering Melt. Use her Skill before her Burst to immediately enter Nightsoul's Blessing while establishing both her shield and off-field Cryo application. Because another Natlan support may already hold Scroll of the Hero of Cinder City, Citlali can comfortably equip Instructor or Tenacity of the Millelith instead without sacrificing team damage."
+   
+}

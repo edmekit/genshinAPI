@@ -1,5 +1,8 @@
 {
-    "info" : "Chasca is a playable 5-star Anemo Bow DPS in Genshin Impact. She hails from the Flower-Feather Clan in Natlan and is widely known as a skilled and composed peacemaker who resolves tribal disputes.",
+    "info" : {
+        "name" : "Chasca",
+        "role" : "Anemo Bow DPS"
+    },
 
     "recommended" : {
         "hp" : "Low priority",
@@ -27,7 +30,9 @@
     },
 
     "team" : {
-        "premium" : ["Chasca" , "Bennett", "Citali", "Furina"],
+        "premium" : ["Chasca" , "Bennett", "Citlali", "Furina"],
         "f2p" : ["Chasca", "Ororon", "Xingqiu", "Bennett"]
-    }
+    },
+
+    "notes" : "Chasca excels with teammates that provide off-field elemental application and buffs, such as Furina, Citlali, Bennett, Xilonen, and Kazuha. Begin your rotation by setting up all support abilities before switching to Chasca and entering her Nightsoul state. During this window, continuously fire her enhanced shots and use her Burst whenever available. Since her attacks convert based on her teammates' elements, running multiple different elements greatly improves her damage. Position yourself before taking flight to avoid wasting time repositioning while airborne."
 }

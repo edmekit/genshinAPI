@@ -1,5 +1,8 @@
 {
-  "info": "Columbina is a playable 5-star Hydro Catalyst character in Genshin Impact. She is also known as the Damselette and the Moon Goddess of Nod-Krai, and current build guides place her as a Lunar reaction enabler and Hydro support/sub-DPS.",
+  "info": {
+    "name" : "Columbina",
+    "role" : "Hydro Catalyst Sub-DPS/Support"
+  },
   "recommended": {
     "hp": "35000 - 45000",
     "atk": "Low priority",
@@ -29,5 +32,7 @@
     "team" : {
         "premium" : ["Columbina", "Zibai", "Illuga", "Linnea"],
         "f2p" : ["Columbina", "Fischl", "Xingqiu", "Sucrose"]
-    }
+    },
+
+    "notes" : "Columbina is an off-field Hydro support and Sub-DPS designed specifically to enable and strengthen Lunar Reactions. Rather than acting as a traditional Hydro applicator, her greatest contribution comes from amplifying Lunar-Charged, Lunar-Bloom, and Lunar-Crystallize teams while providing consistent Hydro application from off field. Activate her Skill and Burst near the beginning of each rotation to establish her Hydro application and Lunar buffs before swapping to your primary damage dealer. Since much of her utility scales with her Max HP, reaching the recommended HP threshold is generally more valuable than pursuing additional offensive stats, after which Energy Recharge becomes the next priority for maintaining Burst consistency. She can function in conventional Hydro teams, but a significant portion of her kit is designed around supporting other Lunar characters and reactions."
 }

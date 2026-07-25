@@ -1,5 +1,8 @@
 {
-    "info": "Furina is a playable 5-star Hydro Sword character in Genshin Impact. She is the former Hydro Archon of Fontaine and is known for her dual Arkhe alignment, off-field summon damage, strong team-wide buffs, and HP-draining mechanics that enable many team synergies.",
+    "info" : {
+        "name" : "Furina",
+        "role" : "Hydro Sword Sub-DPS"
+    },
       
     "recommended": {
         "hp": "35000 - 45000",
@@ -30,5 +33,7 @@
     "team" : {
         "premium" : ["Neuvillette", "Furina", "Kazuha", "Xilonen"],
         "f2p" : ["Furina", "Gaming", "Charlotte", "Bennett"]
-    }
+    },
+
+    "notes" : "Furina is one of the strongest universal supports in the game, converting HP fluctuations into powerful team-wide DMG Bonus through her Fanfare mechanic. She performs best alongside team-wide healers such as Xianyun, Jean, Baizhu, Charlotte, or Xilonen, allowing her Burst to reach maximum stacks as quickly as possible. Cast her Skill before using her Burst so the Salon Members immediately begin draining HP while Fanfare starts accumulating. Since her summons continue dealing damage even after leaving the field, Furina rarely requires extended on-field time outside of refreshing her Skill. In teams with insufficient healing, consider switching to Pneuma alignment temporarily to recover HP before returning to Ousia for higher damage."
 }

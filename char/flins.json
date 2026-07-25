@@ -1,5 +1,8 @@
 {
-    "info": "Flins is a playable 5-star Electro Polearm character in Genshin Impact. Guide sources describe him as an Electro DPS built around Lunar-Charged reactions, with Night of the Sky's Unveiling commonly cited as his best artifact set.",
+    "info": {
+        "name" : "Flins",
+        "role" : "Electro Polearm DPS"
+    },
     "recommended": {
       "hp": "Low priority",
       "atk": "1800 or above",
@@ -29,5 +32,7 @@
     "team" : {
         "premium" : ["Flins", "Columbina", "Ineffa", "Sucrose"],
         "f2p" : ["Flins", "Aino", "Fischl", "Sucrose"]
-    }
+    },
+
+    "notes" : "Flins is an on-field Electro DPS whose damage is centered around his special Burst, which is only available while his Skill's enhanced state is active. Because this state immediately ends if he leaves the field, he strongly prefers teammates that provide buffs and damage entirely from off field, with Columbina and Ineffa being his premier supports. Set up all teammates before switching to Flins, then activate his Skill and perform his combo using the short Burst instead of the normal Burst whenever possible. Flins requires Ascendant Gleam to fully unlock his kit and the effects of 4-piece NodSU, making another Nod-Krai teammate effectively mandatory. His Energy requirements can also be demanding, so an Electro teammate such as Fischl or Ineffa is highly recommended to reduce his ER needs and keep his Burst available every rotation."
   }

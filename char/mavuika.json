@@ -1,5 +1,8 @@
 {
-    "info": "Mavuika is a playable 5-star Pyro character in Genshin Impact. She is the Pyro Archon of Natlan and functions as a high-impact on-field or off-field Pyro DPS with strong team utility.",
+    "info": {
+        "name" : "Mavuika",
+        "role" : "Pyro Claymore DPS"
+    },
     "recommended": {
       "hp": "Low priority",
       "atk": "2000 or above",
@@ -27,7 +30,9 @@
     },
 
     "team" : {
-        "premium" : ["Mavuika", "Citali", "Bennett", "Xilonen"],
+        "premium" : ["Mavuika", "Citlali", "Bennett", "Xilonen"],
         "f2p" : ["Mavuika", "Xingqiu", "Bennett", "Kachina"]
-    }
+    },
+
+    "notes" : "Mavuika is a Pyro hypercarry whose damage is concentrated almost entirely within her Burst state, making proper setup significantly more important than extending rotations. She reaches her highest damage in Forward Melt teams with Citlali while also benefiting greatly from Natlan supports such as Xilonen or Iansan, who rapidly generate Fighting Spirit and enable her Burst consistently. Cast her Tap Skill early in the rotation before cycling through supports, then return to Mavuika to unleash her Burst after all buffs are active. Because Fighting Spirit cannot be generated efficiently without another Natlan teammate, she strongly prefers at least one Natlan support in nearly every team. During her Burst, prioritize completing her optimal combo instead of ending the state early, as a substantial portion of her total damage comes from her empowered attacks rather than the initial nuke alone."
   }

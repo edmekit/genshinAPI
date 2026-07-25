@@ -1,5 +1,8 @@
 {
-    "info": "Zibai is a playable 5-star Geo Sword DPS in Genshin Impact. She is known as an on-field Lunar-Crystallize damage dealer who enters a special Skill state, converts her attacks to Geo DMG, and scales heavily with DEF.",
+    "info": {
+        "name" : "Zibai",
+        "role" : "Geo Sword DPS"
+    },
 
     "recommended": {
         "hp": "12000 - 15000",
@@ -31,5 +34,7 @@
     "team" : {
         "premium" : ["Zibai", "Columbina", "Illuga", "Linnea"],
         "f2p" : ["Zibai", "Aino", "Gorou", "Illuga"]
-    }
+    },
+
+    "notes" : "Zibai is an on-field Geo DPS who specializes in Lunar-Crystallize, entering Lunar Phase Shift through her Skill to convert her attacks to Geo while enabling direct Lunar-Crystallize damage. Unlike many on-field carries, her Skill state lasts up to 15 seconds but immediately ends if she swaps out, allowing some flexibility for repositioning without sacrificing damage. Since the majority of her Normal Attack damage comes from the Lunar-Crystallize hit on her fourth Normal Attack, avoid cutting her attack strings short whenever possible. Zibai's teams should include at least one Hydro teammate to maintain Hydro aura for Lunar-Crystallize, one Geo teammate to activate Geo Resonance, and one Nod-Krai teammate to reach Ascendant Gleam, which unlocks key portions of her kit. Her Burst contributes respectable damage but is not required for every rotation, making consistent Skill uptime and proper combo execution far more important than forcing Burst every cycle."
 }
