@@ -1,8 +1,8 @@
 {
-"info": {
-    "name" : "Skirk",
-    "role" : "Cryo Sword DPS"
-},
+    "info": {
+        "name" : "Skirk",
+        "role" : "Cryo Sword DPS"
+    },
     "recommended": {
       "hp": "Low priority",
       "atk": "2000 or above",
